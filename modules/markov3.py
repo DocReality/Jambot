@@ -14,7 +14,6 @@ from twitter import *
 import math
 
 #Markov chain jambot-discord module
-#By ice at scrub club discord
 
 mentionmatch = re.compile(r'^<@!?\d+>$')
 linkmatch = re.compile(r'(https?://\S+)')
